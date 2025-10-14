@@ -91,14 +91,13 @@ div#slider figure {
     flex-direction: row;
     width: 100%;
     height: 100%;
-    padding: 10px;
     justify-content: center;
 }
 .producto1{
     height: auto;
     width: auto;
     border: solid white;
-    margin: 30px 30px;
+    margin: 20px 20px;
     padding: 10px 10px;
     text-align: center;
     border-radius: 12px;
@@ -139,47 +138,46 @@ div#slider figure {
     display: flex;
     flex-direction: row;
     width: 100%;
+    height: 100%;
+    justify-content: center;
+}
+.producto5{
     height: auto;
-    padding: 10px;
-    justify-content: center;
-}
-        .producto5{
-            height: auto;
-            width: 25%;
-        }
-        .producto6{
-            height: auto;
-            width: 25%;
-        }
-        .producto7{
-            height: auto;
-            width: 25%;
-        }
-        .producto8{
-            height: auto;
-            width: 25%;
-}
-.linea3{
-    display: flex;
-    flex-direction: row;
     width: auto;
-    height: 180px;
-    padding: 10px;
-    justify-content: center;
-}
-        .producto9{
-            height: auto;
-            width: 25%;
-        }
-        .producto10{
-            height: auto;
-            width: 25%;
-        }
-        .producto11{
-            height: auto;
-            width: 25%;
-        }
-        .producto12{
-            height: auto;
-            width: 25%;
-}
+    border: solid white;
+    margin: 20px 20px;
+    padding: 10px 10px;
+    text-align: center;
+    border-radius: 12px;
+    box-shadow: 3px 5px 10px
+    }
+.producto6{
+    height: auto;
+    width: auto;
+    border: solid white;
+    margin: 30px 30px;
+    padding: 10px 10px;
+    text-align: center;
+    border-radius: 12px;
+    box-shadow: 3px 5px 10px
+    }
+.producto7{
+    height: auto;
+    width: auto;
+    border: solid white;
+    margin: 30px 30px;
+    padding: 10px 10px;
+    text-align: center;
+    border-radius: 12px;
+    box-shadow: 3px 5px 10px
+    }
+.producto8{
+     height: auto;
+    width: auto;
+    border: solid white;
+    margin: 30px 30px;
+    padding: 10px 10px;
+    text-align: center;
+    border-radius: 12px;
+    box-shadow: 3px 5px 10px
+     }
