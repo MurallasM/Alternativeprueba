@@ -1,0 +1,141 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    margin: 0;
+    padding: o;
+}
+
+:root {
+    --color-primario: rgb(0, 0,0);
+    --color-secundario:  rgb(170, 12, 12);
+    --color-terciario: white; 
+    --fuente-principal: "Roboto";
+    --fuente-secundaria: 'Bebas Neue', cursive;
+}
+
+body{
+    background-color: var(--color-primario);
+    color:white;
+    font-family:'Roboto';
+    line-height: 1.6;
+}
+
+.encabezado{
+    height: 70px;
+    display:flex;
+    padding: 0px 30px;
+    justify-content: space-between;
+    background-color: var(--color-secundario)
+}
+.encabezado a:hover {
+    background-color: var(--color-terciario);
+    color: var(--color-primario);
+
+}
+.encabezado a{
+    color: white;
+    text-decoration:none;font-size: 30px;    
+}
+.carrusel2{
+    display: flex;
+    flex-direction: row;
+}
+
+.principal {
+    display: flex;
+    flex-direction: row;
+}
+.acceso1{
+    padding: 10px 10px;
+    
+}
+.acceso2{
+      padding: 10px 10px;
+}
+.acceso3{
+    padding: 10px 10px;
+}
+.acceso4{
+    padding: 10px 10px;
+}
+.pie{
+    text-align: center;
+}
+div#carrusel{
+    display: flex;
+}
+div#slider { overflow: hidden; } /* las imágenes no van a salir del márgen de la pantalla*/
+div#slider figure img { width: 20%; float: left; }
+
+div#slider figure { 
+  position: relative;
+  width: 500%;
+  margin: 0;
+  left: 0;
+  text-align: left;
+  font-size: 0;
+  animation: 10s slidy infinite; /*el movimiento se va a mantener de forma indefinida -infinito-*/
+}
+/*esta parte del código define el movimiento de las imágenes a la izquierda*/
+@keyframes slidy {
+0% { left: 0%; }
+25% { left: 0%; }
+50% { left: -100%; }
+75% { left: -100%; }
+100% { left: -200%; }
+}
+.tn1{
+    height: 540px
+}
+
+.linea1{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 180px;
+}
+.linea2{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 180px;
+}
+        .producto5{
+            height: auto;
+            width: 25%;
+        }
+        .producto6{
+            height: auto;
+            width: 25%;
+        }
+        .producto7{
+            height: auto;
+            width: 25%;
+        }
+        .producto8{
+            height: auto;
+            width: 25%;
+}
+.linea3{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 180px;
+}
+        .producto9{
+            height: auto;
+            width: 25%;
+        }
+        .producto10{
+            height: auto;
+            width: 25%;
+        }
+        .producto11{
+            height: auto;
+            width: 25%;
+        }
+        .producto12{
+            height: auto;
+            width: 25%;
+}
