@@ -172,7 +172,7 @@ div#slider figure {
     box-shadow: 0.18rem 0.31rem 0.62rem/*3px 5px 10px*/
     }
 .producto8{
-     height: auto;
+    height: auto;
     width: auto;
     border: solid white;
     margin: 1.8rem 1.8rem;/*30 px*/
@@ -181,6 +181,111 @@ div#slider figure {
     border-radius: 0.75rem;/*12 px*/
     box-shadow: 0.18rem 0.31rem 0.62rem/*3px 5px 10px*/
      }
+.servicio1{
+    height: auto;
+    width: auto;
+    border: solid white;
+    margin: 1.8rem 1.8rem;/*30 px*/
+    padding: 0.6rem 0.6rem;/*10 px*/
+    align-items: right;
+    text-align: left;
+    border-radius: 0.75rem;/*12 px*/
+    box-shadow: 0.18rem 0.31rem 0.62rem/*3px 5px 10px*/
+}
+
+.servicio2{
+    height: auto;
+    width: auto;
+    border: solid white;
+    margin: 1.8rem 1.8rem;/*30 px*/
+    padding: 0.6rem 0.6rem;/*10 px*/
+    align-items: right;
+    text-align: left;
+    border-radius: 0.75rem;/*12 px*/
+    box-shadow: 0.18rem 0.31rem 0.62rem/*3px 5px 10px*/
+}
+
+.servicio3{
+    height: auto;
+    width: auto;
+    border: solid white;
+    margin: 1.8rem 1.8rem;/*30 px*/
+    padding: 0.6rem 0.6rem;/*10 px*/
+    align-items: right;
+    text-align: left;
+    border-radius: 0.75rem;/*12 px*/
+    box-shadow: 0.18rem 0.31rem 0.62rem/*3px 5px 10px*/
+}
+.experiencia1{
+    height: auto;
+    width: auto;
+    border: solid white;
+    margin: 1.8rem 1.8rem;/*30 px*/
+    padding: 0.6rem 0.6rem;/*10 px*/
+    align-items: right;
+    text-align: left;
+    border-radius: 0.75rem;/*12 px*/
+    box-shadow: 0.18rem 0.31rem 0.62rem/*3px 5px 10px*/
+}
+.experiencia2{
+    height: auto;
+    width: auto;
+    border: solid white;
+    margin: 1.8rem 1.8rem;/*30 px*/
+    padding: 0.6rem 0.6rem;/*10 px*/
+    align-items: right;
+    text-align: left;
+    border-radius: 0.75rem;/*12 px*/
+    box-shadow: 0.18rem 0.31rem 0.62rem/*3px 5px 10px*/
+}
+.experiencia3{
+    height: auto;
+    width: auto;
+    border: solid white;
+    margin: 1.8rem 1.8rem;/*30 px*/
+    padding: 0.6rem 0.6rem;/*10 px*/
+    align-items: right;
+    text-align: left;
+    border-radius: 0.75rem;/*12 px*/
+    box-shadow: 0.18rem 0.31rem 0.62rem/*3px 5px 10px*/
+}
+
+.macerado1{
+    height: auto;
+    width: auto;
+    border: solid white;
+    margin: 1.8rem 1.8rem;/*30 px*/
+    padding: 0.6rem 0.6rem;/*10 px*/
+    align-items: right;
+    text-align: left;
+    border-radius: 0.75rem;/*12 px*/
+    box-shadow: 0.18rem 0.31rem 0.62rem/*3px 5px 10px*/
+}
+
+.macerado2{
+    height: auto;
+    width: auto;
+    border: solid white;
+    margin: 1.8rem 1.8rem;/*30 px*/
+    padding: 0.6rem 0.6rem;/*10 px*/
+    align-items: right;
+    text-align: left;
+    border-radius: 0.75rem;/*12 px*/
+    box-shadow: 0.18rem 0.31rem 0.62rem/*3px 5px 10px*/
+}
+
+.macerado3{
+    height: auto;
+    width: auto;
+    border: solid white;
+    margin: 1.8rem 1.8rem;/*30 px*/
+    padding: 0.6rem 0.6rem;/*10 px*/
+    align-items: right;
+    text-align: left;
+    border-radius: 0.75rem;/*12 px*/
+    box-shadow: 0.18rem 0.31rem 0.62rem/*3px 5px 10px*/
+}
+
 @media screen and (max-width: 450px) {
     :root {font-size: 11px;}
 }
