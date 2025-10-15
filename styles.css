@@ -184,3 +184,4 @@ div#slider figure {
 @media screen and (max-width: 300px) {
     :root {font-size: 11px;}
 }
+.principal{transform: none;}
