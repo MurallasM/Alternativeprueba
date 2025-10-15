@@ -181,6 +181,6 @@ div#slider figure {
     border-radius: 12px;
     box-shadow: 3px 5px 10px
      }
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 300px) {
     :root {font-size: 11px;}
 }
