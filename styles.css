@@ -9,7 +9,7 @@
 :root {
     --color-primario: rgb(0, 0,0);
     --color-secundario:  rgb(170, 12, 12);
-    --color-terciario: white; 
+    --color-terciario: white;
     --fuente-principal: "Roboto";
     --fuente-secundaria: 'Bebas Neue', cursive;
 }
@@ -22,7 +22,7 @@ body{
 }
 
 .encabezado{
-    height: 70px;
+    height: 4.7rem;/*70 px*/
     display:flex;
     padding: 0px 30px;
     justify-content: space-between;
@@ -184,4 +184,3 @@ div#slider figure {
 @media screen and (max-width: 300px) {
     :root {font-size: 11px;}
 }
-.principal{transform: none;}
