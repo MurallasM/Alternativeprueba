@@ -22,9 +22,9 @@ body{
 }
 
 .encabezado{
-    height: 4.7rem;/*70 px*/
+    height: 4.3rem;/*70 px*/
     display:flex;
-    padding: 0px 30px;
+    padding: 0px 1.8rem;/*30 px*/
     justify-content: space-between;
     background-color: var(--color-secundario)
 }
@@ -35,7 +35,7 @@ body{
 }
 .encabezado a{
     color: white;
-    text-decoration:none;font-size: 30px;    
+    text-decoration:none;font-size: 1.8rem;/*30 px*/ 
 }
 .carrusel2{
     display: flex;
@@ -97,41 +97,41 @@ div#slider figure {
     height: auto;
     width: auto;
     border: solid white;
-    margin: 30px 30px;
-    padding: 10px 10px;
+    margin: 1.8rem 1.8rem;/*30 px*/
+    padding: 0.6rem 0.6rem;/*10 px*/
     text-align: center;
-    border-radius: 12px;
-    box-shadow: 3px 5px 10px
+    border-radius: 0.75rem;/*12 px*/
+    box-shadow: 0.18rem 0.31rem 0.62rem/*3px 5px 10px*/
     }
 .producto2{
     height: auto;
     width: auto;
     border: solid white;
-    margin: 30px 30px;
-    padding: 10px 10px;
+    margin: 1.8rem 1.8rem;/*30 px*/
+    padding: 0.6rem 0.6rem;/*10 px*/
     text-align: center;
-    border-radius: 12px;
-    box-shadow: 3px 5px 10px
+    border-radius: 0.75rem;/*12 px*/
+    box-shadow: 0.18rem 0.31rem 0.62rem/*3px 5px 10px*/
     }
 .producto3{
     height: auto;
     width: auto;
     border: solid white;
-    margin: 30px 30px;
-    padding: 10px 10px;
+    margin: 1.8rem 1.8rem;/*30 px*/
+    padding: 0.6rem 0.6rem;/*10 px*/
     text-align: center;
-    border-radius: 12px;
-    box-shadow: 3px 5px 10px
+    border-radius: 0.75rem;/*12 px*/
+    box-shadow: 0.18rem 0.31rem 0.62rem/*3px 5px 10px*/
     }
     .producto4{
      height: auto;
     width: auto;
     border: solid white;
-    margin: 30px 30px;
-    padding: 10px 10px;
+    margin: 1.8rem 1.8rem;/*30 px*/
+    padding: 0.6rem 0.6rem;/*10 px*/
     text-align: center;
-    border-radius: 12px;
-    box-shadow: 3px 5px 10px
+    border-radius: 0.75rem;/*12 px*/
+    box-shadow: 0.18rem 0.31rem 0.62rem/*3px 5px 10px*/
      }
 
 .linea2{
@@ -145,42 +145,42 @@ div#slider figure {
     height: auto;
     width: auto;
     border: solid white;
-    margin: 30px 30px;
-    padding: 10px 10px;
+    margin: 1.8rem 1.8rem;/*30 px*/
+    padding: 0.6rem 0.6rem;/*10 px*/
     text-align: center;
-    border-radius: 12px;
-    box-shadow: 3px 5px 10px
+    border-radius: 0.75rem;/*12 px*/
+    box-shadow: 0.18rem 0.31rem 0.62rem/*3px 5px 10px*/
     }
 .producto6{
     height: auto;
     width: auto;
     border: solid white;
-    margin: 30px 30px;
-    padding: 10px 10px;
+    margin: 1.8rem 1.8rem;/*30 px*/
+    padding: 0.6rem 0.6rem;/*10 px*/
     text-align: center;
-    border-radius: 12px;
-    box-shadow: 3px 5px 10px
+    border-radius: 0.75rem;/*12 px*/
+    box-shadow: 0.18rem 0.31rem 0.62rem/*3px 5px 10px*/
     }
 .producto7{
     height: auto;
     width: auto;
     border: solid white;
-    margin: 30px 30px;
-    padding: 10px 10px;
+    margin: 1.8rem 1.8rem;/*30 px*/
+    padding: 0.6rem 0.6rem;/*10 px*/
     text-align: center;
-    border-radius: 12px;
-    box-shadow: 3px 5px 10px
+    border-radius: 0.75rem;/*12 px*/
+    box-shadow: 0.18rem 0.31rem 0.62rem/*3px 5px 10px*/
     }
 .producto8{
      height: auto;
     width: auto;
     border: solid white;
-    margin: 30px 30px;
-    padding: 10px 10px;
+    margin: 1.8rem 1.8rem;/*30 px*/
+    padding: 0.6rem 0.6rem;/*10 px*/
     text-align: center;
-    border-radius: 12px;
-    box-shadow: 3px 5px 10px
+    border-radius: 0.75rem;/*12 px*/
+    box-shadow: 0.18rem 0.31rem 0.62rem/*3px 5px 10px*/
      }
-@media screen and (max-width: 300px) {
+@media screen and (max-width: 450px) {
     :root {font-size: 11px;}
 }
