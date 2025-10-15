@@ -70,7 +70,7 @@ div#slider figure img { width: 20%; float: left; }
 
 div#slider figure { 
   position: relative;
-  width: 550%;
+  width: 500%;
   margin: 0;
   left: 0;
   text-align: left;
@@ -97,7 +97,7 @@ div#slider figure {
     height: auto;
     width: auto;
     border: solid white;
-    margin: 20px 20px;
+    margin: 30px 30px;
     padding: 10px 10px;
     text-align: center;
     border-radius: 12px;
@@ -145,7 +145,7 @@ div#slider figure {
     height: auto;
     width: auto;
     border: solid white;
-    margin: 20px 20px;
+    margin: 30px 30px;
     padding: 10px 10px;
     text-align: center;
     border-radius: 12px;
